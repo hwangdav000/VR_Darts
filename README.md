@@ -19,8 +19,8 @@ I get the following results.
 
 ![image](https://github.com/hwangdav000/VR_Darts/assets/29682356/960d1c2c-1fe0-4f1c-9451-16fe6537bb70)
 
-Using an independent samples t-test it was found that there was not enough evidence to reject that
-the two samples are significantly different at 0.05 significance level. However further exploration
+Using an independent samples t-test it was found that there was not enough evidence to suggest that virtual
+training had an overall affect on throwing accuracy. However further exploration
 and consideration may be warranted due to the limited sample size.
 
 For more information take a look at the paper. 
